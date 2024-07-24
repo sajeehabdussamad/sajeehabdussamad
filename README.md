@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajeehabdussamad
 - 👀 I’m interested in Artificial Intelligence, Web Development
-- 🌱 I’m currently learning Computer Engineering 
+- 🌱 -
 - 📫 How to reach me --> sajeehabdussamad@gmail.com
 
 <!---
