@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajeehabdussamad
 - 👀 I’m interested in Artificial Intelligence, Web Development
-- 🌱 -
+- 🌱 I’m currently an undergraduate student studying at Istanbul Medipol University
 - 📫 How to reach me --> sajeehabdussamad@gmail.com
 
 <!---
