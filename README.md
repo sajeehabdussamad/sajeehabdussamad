@@ -20,7 +20,8 @@ Currently pursuing my undergraduate studies at **Istanbul Medipol University**.
 ## 📫 How to Reach Me
 
 - 📧 Email: [sajeehabdussamad@gmail.com](mailto:sajeehabdussamad@gmail.com)  
-- 🐦 X (Twitter): [@SajeehSamad](https://x.com/SajeehSamad)  
+- 🐦 X (Twitter): [@SajeehSamad](https://x.com/SajeehSamad)
+- 📸 Instagram: [@sajeehabdussamad](https://www.instagram.com/sajeehabdussamad/)
 - 🌐 Portfolio: [Coming Soon](#)  
 
 ---
