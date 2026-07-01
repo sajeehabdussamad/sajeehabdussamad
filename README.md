@@ -1,45 +1,35 @@
-# 👋 Hi, I’m Sajeeh Abdussamad
+# 👋 Hi, I'm Sajeeh Abdussamad
 
-Welcome to my GitHub profile! I'm a passionate developer and designer based in Istanbul, Türkiye 🇹🇷  
-Currently pursuing my undergraduate studies at **Istanbul Medipol University**.
+Computer Engineering student at **Istanbul Medipol University**, based in Istanbul, Türkiye 🇹🇷
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 Undergraduate student studying Computer Engineering  
-- 👀 Interests: **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **UI/UX Design**  
-- 💻 Languages & Tools:  
-  `HTML` · `CSS` · `JavaScript` · `Python` · `Django` · `React` · `Git`  · `SQL` 
-- 🎨 I enjoy designing clean and user-friendly interfaces  
-- 🌱 Learning full-stack development and AI step by step  
-- 🤝 Open to collaborating on meaningful and challenging tech projects  
-
----
-
-## 📫 How to Reach Me
-
-- 📧 Email: [sajeehabdussamad@gmail.com](mailto:sajeehabdussamad@gmail.com)  
-- 🐦 X (Twitter): [@SajeehSamad](https://x.com/SajeehSamad)
-- 📸 Instagram: [@sajeehabdussamad](https://www.instagram.com/sajeehabdussamad/)
-- 🌐 Portfolio: [Coming Soon](#)  
-
----
-
-## 📈 GitHub Stats
-
-![Sajeeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajeehabdussamad&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeehabdussamad&layout=compact&theme=radical)
+- 🎓 Undergraduate studying Computer Engineering (Expected 2028)
+- 👀 Interests: **Machine Learning**, **Audio/Bioacoustics Classification**, **Backend Web Development**
+- 💻 Languages & Tools: `Python` · `Java` · `C` · `JavaScript` · `Django` · `SQL/MySQL` · `TensorFlow/Keras` · `Git`
+- 🌱 Currently deepening my ML and backend development skills through hands-on projects
+- 🤝 Open to internships and collaborating on interesting technical projects
 
 ---
 
 ## 📂 Featured Projects
-
-Coming soon! Stay tuned for some cool projects. ✨
+- 🐦 **[BirdCLEF+ 2026](https://www.kaggle.com/code/sajeehabdussamad/birdclef2026-cnn-melspectrogram)** — CNN-based bird species audio classifier using mel-spectrograms, trained on 35K+ recordings across 206 species (TensorFlow/Keras)
+- 🩺 **[Pulse](https://github.com/sajeehabdussamad/pulse-django)** — Django platform for sharing medical ethics content, with an editor-approval workflow, search, and comments
+- 🏨 **[Hotel Management System](https://github.com/sajeehabdussamad/hotel-management-javafx)** — JavaFX desktop app with login, room/employee/customer management, and OOP design (Java)
+- 🎮 **[Thief vs Policeman Maze Game](https://github.com/sajeehabdussamad/thief-policeman-maze)** — Console-based maze chase game in C with random and Manhattan-distance AI pathfinding
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sajeehabdussamad&color=blue)
+## 📫 Reach Me
+- 📧 [sajeehabdussamad@gmail.com](mailto:sajeehabdussamad@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sajeeh-abdussamad-557973331/)
 
-Thanks for visiting! Don’t forget to ⭐ your favorite repositories!
+---
+
+## 📈 GitHub Stats
+![Sajeeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajeehabdussamad&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeehabdussamad&layout=compact&theme=radical)
+
+---
+⭐ Thanks for visiting — feel free to star anything you find useful!
