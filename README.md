@@ -6,7 +6,7 @@ Computer Engineering student at **Istanbul Medipol University**, based in Istanb
 
 ## 🚀 About Me
 - 🎓 Undergraduate studying Computer Engineering (Expected 2028)
-- 👀 Interests: **Machine Learning**, **Audio/Bioacoustics Classification**, **Backend Web Development**
+- 👀 Interests: **Machine Learning**, **Data Structures**, **Backend Web Development**
 - 💻 Languages & Tools: `Python` · `Java` · `C` · `JavaScript` · `Django` · `SQL/MySQL` · `TensorFlow/Keras` · `Git`
 - 🌱 Currently deepening my ML and backend development skills through hands-on projects
 - 🤝 Open to internships and collaborating on interesting technical projects
