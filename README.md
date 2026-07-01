@@ -10,7 +10,7 @@ Currently pursuing my undergraduate studies at **Istanbul Medipol University**.
 - 🎓 Undergraduate student studying Computer Engineering  
 - 👀 Interests: **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **UI/UX Design**  
 - 💻 Languages & Tools:  
-  `HTML` · `CSS` · `JavaScript` · `Python` · `Flask` · `React` · `Git`  
+  `HTML` · `CSS` · `JavaScript` · `Python` · `Django` · `React` · `Git`  . `SQL` 
 - 🎨 I enjoy designing clean and user-friendly interfaces  
 - 🌱 Learning full-stack development and AI step by step  
 - 🤝 Open to collaborating on meaningful and challenging tech projects  
